@@ -283,4 +283,23 @@ footer.second p {
     .banner {
         padding-top: 86px;
     }
+    .one-fourth {
+        width: 100%;
+    }
+    .one-fourth i {
+        font-size: 450%;
+        padding: 4% 0 1% 0;
+    }
+    article, aside {
+        width: 100%;
+    }
+    .hand-mobile {
+        display: none;
+    }
+    .one-third {
+        width: 100%;
+    }
+    .social i {
+        font-size: 180%;
+    }
 }
